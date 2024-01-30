@@ -1,0 +1,25 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: 500px;
+  border-radius: 15px;
+}
+
+.button {
+  background-color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 8px;
+}
